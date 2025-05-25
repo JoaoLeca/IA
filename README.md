@@ -1,3 +1,3 @@
 # IA
 
-#Código-fonte nomeado como trabalho
+Código-fonte nomeado como trabalho
